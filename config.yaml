@@ -1,0 +1,10 @@
+storage-path: "/opt/webcam-archive"
+sources: 
+    - id: radio-touring-etna
+      url: http://www.radiotouring.eu/webcam/Radio_Touring_Etna.jpg
+      period: 180
+      ext: jpg
+    - id: etnatech-etnasud
+      url: http://www.etnatech.com/camupload/etnasud.jpg
+      period: 300
+      ext: jpg
